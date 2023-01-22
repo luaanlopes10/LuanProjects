@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear habitos.
 
-- [Visite o projeto online] (luaanlopes10.github.io/LuanProjects/)
+- [Visite o projeto online] (https://luaanlopes10.github.io/LuanProjects/)
 
 ## 🔖 Layout
 
